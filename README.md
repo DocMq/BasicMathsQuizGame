@@ -18,20 +18,6 @@ Feedback: Immediate feedback is provided for each question, showing the correct 
 Final Score Display: The user's final score is displayed at the end of the quiz.
 Customizable: The quiz questions, options, and correct answers can be easily modified.
 
-Installation
-Clone the Repository:
-
-sh
-Copy code
-git clone https://github.com/DocMq/BasicMathQuizGame.git
-cd BasicMathQuizGame
-Run the Quiz:
-
-sh
-Copy code
-python math_quiz_game.py
-Make sure you have Python installed and added to your system's PATH.
-
 Code Structure
 math_quiz_game.py: Main Python script containing the quiz game logic.
 Functions:
