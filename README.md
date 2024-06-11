@@ -1,27 +1,29 @@
-# BasicMathsQuizGame
-Basic Math Quiz Game
-Project Overview
+Basic Maths Quiz Game
+
+Project Overview:
 Welcome to the Basic Math Quiz Game! This project is designed as a simple interactive quiz game that asks users a series of basic mathematical questions. It's a great way to practice and reinforce Python programming fundamentals, including data structures, control flow, and user input handling.
 
-Project Objectives
+Project Objectives:
 Interactive Quiz: Users will be presented with a series of 10 multiple-choice math questions.
 Scoring System: Track the user's correct answers and display their final score.
 User Feedback: Provide immediate feedback on whether the user's answer was correct or incorrect.
 Customizable: Easily modify questions, options, and answers to suit different quiz themes or difficulty levels.
 Code Readability: Organized code into functions for better readability and maintainability.
-Features
+
+Features:
 Questions and Options: The quiz consists of 10 basic math questions, each with four multiple-choice options.
 Scoring System: The user's score is tracked and displayed at the end of the quiz.
 User Input: Users can input their answers, and the input is validated to ensure correctness.
 Feedback: Immediate feedback is provided for each question, showing the correct answer if the user is wrong.
 Final Score Display: The user's final score is displayed at the end of the quiz.
 Customizable: The quiz questions, options, and correct answers can be easily modified.
+
 Installation
 Clone the Repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/BasicMathQuizGame.git
+git clone https://github.com/DocMq/BasicMathQuizGame.git
 cd BasicMathQuizGame
 Run the Quiz:
 
@@ -39,6 +41,7 @@ display_question(question, options): Displays a question and its multiple-choice
 get_answer(): Prompts the user for an answer and validates the input.
 check_answer(answer, correct_answer): Checks if the user's answer is correct.
 main(): Main function to run the quiz game.
+
 Usage
 Run the script to start the quiz.
 Follow the on-screen instructions and answer the questions.
